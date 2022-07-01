@@ -1,0 +1,51 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    background-color: black;
+    padding: 15px;
+    
+}
+
+nav li{
+    list-style-type: none;
+    display: inline;
+    margin-left: 10px;
+}
+nav li a{
+    text-decoration: none;
+   font-size: 25px;
+    color: aqua;
+
+}
+.course_list{
+    margin-left: 40px;
+}
+.left_section{
+    background-color: yellow;
+    height: 400px;
+    width: 200px;
+    margin-top: 20px;
+    float: left;
+    padding: 25px;
+
+}
+.right_section{
+    background-color: yellow;
+    height: 400px;
+    width: 200px;
+    margin-top: 20px;
+    float: right;
+    padding: 25px;
+
+}
+.footer{
+    background-color: black;
+    color: white;
+    margin-top: 490px;
+    text-align: center;
+    padding: 15px;
+}
